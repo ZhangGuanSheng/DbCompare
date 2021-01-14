@@ -1,0 +1,2 @@
+# DbCompare
+Compare Database Structure.
